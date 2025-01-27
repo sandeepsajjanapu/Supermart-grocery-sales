@@ -1,7 +1,6 @@
 # Supermart-Grocery-sales
 ![image](https://github.com/user-attachments/assets/ef3ef41a-0d3f-4b26-aa7a-9c77656b87b3)
 
-```markdown
 # Supermart-grocery-sales
 
 ## Overview
@@ -59,9 +58,6 @@ Feel free to connect for further discussions or collaborations:
 - **Email:** sandeepsajjanapu6@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sandeep-sajjanapu/
 
-## Note
 
-This project is a demonstration of data analysis and visualization techniques using Excel. The dataset is publicly available and used for educational purposes.
-```
 
 
