@@ -6,6 +6,8 @@
 ## Overview
 
 This project focuses on analyzing the Supermart Grocery Sales dataset to uncover key insights about sales trends, customer behavior, and performance across product categories and regions. The analysis involves data cleaning, transformation, and visualization using Microsoft Excel.
+![image](https://github.com/user-attachments/assets/122746a9-2b04-4cbb-b343-197238f40bf8)
+
 
 ## Objectives
 
